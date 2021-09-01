@@ -1,0 +1,12 @@
+C:\Users\marti\source\repos\ClassLibraryStudent\ClassLibraryStudent\bin\Debug\net5.0\ClassLibraryStudent.deps.json
+C:\Users\marti\source\repos\ClassLibraryStudent\ClassLibraryStudent\bin\Debug\net5.0\ClassLibraryStudent.dll
+C:\Users\marti\source\repos\ClassLibraryStudent\ClassLibraryStudent\bin\Debug\net5.0\ref\ClassLibraryStudent.dll
+C:\Users\marti\source\repos\ClassLibraryStudent\ClassLibraryStudent\bin\Debug\net5.0\ClassLibraryStudent.pdb
+C:\Users\marti\source\repos\ClassLibraryStudent\ClassLibraryStudent\obj\Debug\net5.0\ClassLibraryStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\ClassLibraryStudent\ClassLibraryStudent\obj\Debug\net5.0\ClassLibraryStudent.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\ClassLibraryStudent\ClassLibraryStudent\obj\Debug\net5.0\ClassLibraryStudent.AssemblyInfo.cs
+C:\Users\marti\source\repos\ClassLibraryStudent\ClassLibraryStudent\obj\Debug\net5.0\ClassLibraryStudent.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ClassLibraryStudent\ClassLibraryStudent\obj\Debug\net5.0\ClassLibraryStudent.dll
+C:\Users\marti\source\repos\ClassLibraryStudent\ClassLibraryStudent\obj\Debug\net5.0\ref\ClassLibraryStudent.dll
+C:\Users\marti\source\repos\ClassLibraryStudent\ClassLibraryStudent\obj\Debug\net5.0\ClassLibraryStudent.pdb
+C:\Users\marti\source\repos\ClassLibraryStudent\ClassLibraryStudent\obj\Debug\net5.0\ClassLibraryStudent.csproj.AssemblyReference.cache
